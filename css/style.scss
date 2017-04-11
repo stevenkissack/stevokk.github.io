@@ -1,0 +1,177 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+$site-primary: rgb(255, 69, 69);
+$site-secondary: #FF7B7B;
+
+%oswald { font-family: 'Oswald', sans-serif; }
+%roboto { font-family: 'Roboto Condensed', sans-serif; }
+
+html {
+    height:100%;
+}
+body {
+    @extend %roboto;
+    height:100%;
+    //font-size: 18px;
+    //-webkit-font-smoothing: antialiased;
+}
+
+.background-default {
+    background-image: url(../bg_spacex.jpg);
+}
+.background-cover {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/*section, header, footer, main, article, nav, aside { 
+  position: relative;
+}*/
+
+a {
+    outline: none !important;
+    text-decoration: none !important;
+    transition: all .2s ease;
+    color: $site-secondary;
+
+    &:hover {
+        color: #6165FF;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 { @extend %oswald; }
+
+.title-group {
+  text-align: center;
+  padding: 0 15px;
+  margin: 50px 0 100px;
+  p {
+    max-width: 800px;
+    margin: 25px auto 0;
+  }
+}
+
+/* Homepage tiles (not used)
+.tile {
+    position: relative;
+    box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
+    margin-bottom: 125px;
+
+    .inner { padding: 50px; }
+
+    h2 {
+        margin: 0;
+        font-size: 100px;
+        font-weight: 400;
+        letter-spacing: -0.05em;
+        line-height: 100px;
+    }
+
+    .btn {
+        text-transform: uppercase;
+        font-weight: 400;
+        @extend %oswald;
+    }
+
+    .featurette {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin-bottom: 15px;
+        width: 100%;
+        height: 550px;
+        background-color: #e8e8e8;
+
+        .img {
+            background-size: cover;
+            background-position: 50% 0;
+            background-repeat: no-repeat;
+            position: absolute;
+            display: block;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            transition: all 225ms ease;
+            transform: scale(1);
+
+            &:before {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                display: block;
+                content: '';
+                background: #000;
+                opacity: 0.4;
+                transition: all 225ms ease;
+            }
+        }
+
+        &:hover {
+            .img {
+                transform: scale(1.2);
+
+                &:before {
+                    opacity: 0.2;
+                }
+            }
+        }
+    }
+
+}*/
+
+.field-spacing > * {
+    margin-bottom: 10px;
+}
+
+.site-footer {
+    margin-top: 200px;
+}
+
+/* Not used - is a banner atop of an article
+.topper {
+    height: 500px;
+    position: relative;
+
+    .img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+    }
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
+}*/
+
+@media only screen and (max-width : 991px) {
+
+}
+
+@media only screen and (max-width : 480px) {
+
+}

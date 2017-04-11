@@ -1,0 +1,33 @@
+# Where things are
+source:      .
+destination: ./_site
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
+data_dir:    ./_data
+#collections:
+#  demos:
+#    output: true
+
+# Handling Reading
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
+
+# Outputting
+permalink:     /:title.html
+
+quiet:    false
+defaults: []
+
+include: ['_pages']
