@@ -3,18 +3,15 @@ layout: minimal
 ---
 
 <div class="text-center">
-  <p><b>THIS SITE IS UNDER RE-DEVELOPMENT. ANY COMMUNCATION SHOULD BE DONE VIA E-MAIL: STEVOKK@HOTMAIL.COM</b></p>
-  <p>I am a full stack developer exploring the world{% if site.data.global.personal_current_location %}, I'm currently residing in {{ site.data.global.personal_current_location }} but happy to move for the right reasons{% endif %}.</p>
+  <p><b>This site is under complete re-development to accomodate my future plans. Any communication should be done by either my <a href="{{site.data.global.personal_linkedin}}">LinkedIn</a> or <a href="mailto:{{site.data.global.personal_email}}">E-Mail</a></b></p>
+  <p>I am a full stack developer exploring the world{% if site.data.global.personal_current_location %}, currently residing in {{ site.data.global.personal_current_location }} but happy to move for the right reasons{% endif %}.</p>
   {% if site.data.global.available_for_work %}
   <p>If you'd like contact me about an opportunity, see my contact details below.</p>
   {% endif %}
-  <br>
+  <!--
   TODO: <br>
   Resume download and github button links<br>
-  Footer fixed<br>
-  spacings<br>
-  background<br>
-  mobile test<br>
-  background positioning on scroll
-
+  Footer fixed to bottom if page is small<br>
+  Mobile/Tablet testing<br>
+  -->
 </div>

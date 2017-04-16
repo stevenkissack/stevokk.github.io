@@ -2,8 +2,8 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$site-primary: rgb(255, 69, 69);
-$site-secondary: #FF7B7B;
+//$site-primary: rgb(255, 69, 69);
+//$site-secondary: #FF7B7B;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
@@ -14,12 +14,13 @@ html {
 body {
     @extend %roboto;
     height:100%;
+    color: #FFF;
     //font-size: 18px;
     //-webkit-font-smoothing: antialiased;
 }
 
 .background-default {
-    background-image: url(../bg_spacex.jpg);
+    background-image: url(../bg_melb_mavic_blur.jpg);
 }
 .background-cover {
     width: 100%;
@@ -33,6 +34,8 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    // Wraps children divs
+    overflow:auto;
 }
 
 /*section, header, footer, main, article, nav, aside { 
@@ -43,7 +46,7 @@ a {
     outline: none !important;
     text-decoration: none !important;
     transition: all .2s ease;
-    color: $site-secondary;
+    color: #249EFF;
 
     &:hover {
         color: #6165FF;
@@ -140,6 +143,11 @@ h1, h2, h3, h4, h5, h6 { @extend %oswald; }
 .site-footer {
     margin-top: 200px;
 }
+
+// Future Bootstrap 4 class (not sure on value = em)
+ .mt-3 {
+     margin-top: 3em;
+ }
 
 /* Not used - is a banner atop of an article
 .topper {
