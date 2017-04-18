@@ -20,8 +20,10 @@ body {
 }
 
 .background-default {
-    background-image: url(../bg_melb_mavic_blur_md.jpg);
+    background-image: url(/images/bg_melb_mavic_blur_md.jpg);
 }
+
+// Stops repeating of gradients and images, also expands element to wrap children
 .background-cover {
     width: 100%;
     height: 100%;
@@ -55,6 +57,78 @@ a {
 
 h1, h2, h3, h4, h5, h6 { @extend %oswald; }
 
+// Adjust bootstrap buttons to fit design
+.btn {
+    border: 2px solid;
+    border-radius: 0;
+    &.btn-primary {
+        border-color: #ffffff;
+        background-color: transparent;
+        &:hover {
+            background-color: rgba(255, 255, 255, 0.23);
+        }
+    }
+}
+
+// Adjust form inputs to fit design
+.form-control {
+  color: #FFF;
+  background-color: rgba(253, 253, 253, 0.3);
+  background-image: none;
+  border: 1px solid #fff;
+  border-radius: 0px;
+  &::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #FFF;
+  }
+  &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #FFF;
+    opacity: 1;
+  }
+  &::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #FFF;
+    opacity: 1;
+  }
+  &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #FFF;
+  }
+}
+
+// make semi-transparent to show underlying images
+.navbar-inverse {
+  background-color: rgba(34, 34, 34, 0.65);
+  .navbar-nav {
+    .active {
+      >a {
+        background-color: rgba(8, 8, 8, 0.38);
+      }
+    }
+  }
+}
+// switch colouring of nav item text
+nav>li>a {
+  color: #fff;
+}
+nav>li>a:hover {
+  color: #9d9d9d;
+}
+// Stop navbar collapsing
+.navbar-collapse.collapse {
+  display: block!important;
+}
+
+.navbar-nav>li, .navbar-nav {
+  float: left !important;
+}
+
+.navbar-nav.navbar-right:last-child {
+  margin-right: -15px !important;
+}
+
+.navbar-right {
+  float: right!important;
+}
+
+
 .title-group {
   text-align: center;
   padding: 0 15px;
@@ -63,6 +137,29 @@ h1, h2, h3, h4, h5, h6 { @extend %oswald; }
     max-width: 800px;
     margin: 25px auto 0;
   }
+}
+
+.topper {
+    height: 500px;
+    position: relative;
+
+    .img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+    }
+}
+
+@media only screen and (max-width : 480px) {
+    .topper {
+        height: 300px;
+    }
 }
 
 /* Homepage tiles (not used)
@@ -148,33 +245,6 @@ h1, h2, h3, h4, h5, h6 { @extend %oswald; }
  .mt-3 {
      margin-top: 3em;
  }
-
-/* Not used - is a banner atop of an article
-.topper {
-    height: 500px;
-    position: relative;
-
-    .img {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        display: block;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50%;
-    }
-
-    iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        display: block;
-    }
-}*/
 
 @media only screen and (max-width : 991px) {
 

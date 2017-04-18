@@ -3,11 +3,20 @@ layout: minimal
 ---
 
 <div class="text-center">
-  <p><b>This site is under complete re-development to accomodate my future plans. Any communication should be done by either my <a href="{{site.data.global.personal_linkedin}}">LinkedIn</a> or <a href="mailto:{{site.data.global.personal_email}}">E-Mail</a></b></p>
+  <p><b>This site is under complete re-development to accomodate my future plans to display my open source contributions directly on this site.</b></p>
+  <p><b>While this transition takes place my work will only be visible through my <a href="{{site.data.global.personal_github}}" target="_blank">Github Profile</a></b></p>
+  <br>
   <p>I am a full stack developer exploring the world{% if site.data.global.personal_current_location %}, currently residing in {{ site.data.global.personal_current_location }} but happy to move for the right reasons{% endif %}.</p>
   {% if site.data.global.available_for_work %}
   <p>If you'd like contact me about an opportunity, see my contact details below.</p>
   {% endif %}
+  <br>
+  <p>
+    <a href="{{site.data.global.personal_github}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">Github</button></a>
+    <a href="{{site.data.global.personal_linkedin}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">LinkedIn</button></a>
+    <a href="mailto:{{site.data.global.personal_email}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">E-Mail</button></a>
+  </p>
+  <a href="{{site.data.global.personal_resume}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">Résumé</button></a>
   <!--
   TODO: <br>
   Resume download and github button links<br>
