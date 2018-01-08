@@ -66,3 +66,20 @@ Other
 One way to approach this is to apply techniques developed for the stock market, this is commonly referred to as "Technical Analysis" or "TA" for short. As much as this is backed by years of data modelling and research, you are playing with very volatile and unpredictable markets where a single bit of mis-interpreted news can cause a major panic sell among investors. Here are some good quality links to get you going:
 
 * List of TA articles 
+
+# Acronym Breakdown
+
+| FOMO | Fear of missing out |
+| HODL | Someone spelt hold wrong on a forum and it became a thing |
+| MOONING | Price sky rocketing |
+| FIAT | Government backed currency, such as the US Dollar |
+| WHALE | Someone who owns lots of crypto and can influence the market |
+| BULLISH | An expectation that the price is going to increase |
+| BEARISH | An expectation that the price is going to decrease |
+| ATH | All-Time-High. The highest price a coin has ever been |
+| MARKET CAP | Total Supply x Current Price OR Circulating Supply |
+| ICO | Initial Coin Offering. A form of crowd-sourcing |
+| ROI | Return on Investment. Gains - Initial Investment |
+| COLD STORAGE | Moving crypto-currency 'offline', to be held on paper/hardware wallets |
+| BLOCKCHAIN | Distributed ledgers. Public databases that everyone can access and read, but the data can only be updated by the data owners. Data is copied across thousands and thousands of computers (nodes) worldwide |
+{: .table}
