@@ -83,3 +83,9 @@ One way to approach this is to apply techniques developed for the stock market, 
 | COLD STORAGE | Moving crypto-currency 'offline', to be held on paper/hardware wallets |
 | BLOCKCHAIN | Distributed ledgers. Public databases that everyone can access and read, but the data can only be updated by the data owners. Data is copied across thousands and thousands of computers (nodes) worldwide |
 {: .table}
+
+# Proposing changes to this document
+ This site is hosted on Github and written in markdown, feel free to submit a pull request. I am more than happy to also improve this document if you want to contact me directly. For information on how to get started with this, see the below links:
+
+ * https://help.github.com/articles/editing-files-in-another-user-s-repository/
+ * https://kramdown.gettalong.org/quickref.html
