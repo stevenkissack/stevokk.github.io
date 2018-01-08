@@ -24,11 +24,13 @@ With all new technologies and "bubbles", there is a lot of money to be made from
 
 You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verfiy so you're not limited when the next market dip occurs!
 
-* List of exchanges coming soon. 
+* To come
 
 Second, you'll want to move these to either an exchange for trading, or to a wallet to hold them securely long term.
 
-* Exchanges for trading coming soon
+* www.bittrex.com
+* www.binance.com
+* www.kucoin.com
 
 * Wallets coming soon
 
