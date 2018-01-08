@@ -87,5 +87,10 @@ One way to approach this is to apply techniques developed for the stock market, 
 # Proposing changes to this document
  This site is hosted on Github and written in markdown, feel free to submit a pull request. I am more than happy to also improve this document if you want to contact me directly. For information on how to get started with this, see the below links:
 
- * https://help.github.com/articles/editing-files-in-another-user-s-repository/
- * https://kramdown.gettalong.org/quickref.html
+ * [Editing files in another users respository](https://help.github.com/articles/editing-files-in-another-user-s-repository/)
+ * [Markdown language reference guide](https://kramdown.gettalong.org/quickref.html)
+
+ # Donate
+ Ethereum address: 0x1Bc1eB08c33F75998a38fcBfF86A63Db92323dBF
+
+Donations appreciated to keep the group running!
