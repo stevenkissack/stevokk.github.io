@@ -57,7 +57,7 @@ More technical documents can be found in this list:
 
 Youtube links
 Twitter accounts
-Reddit links
+Reddit combi-link: [Most recent generated combination](https://reddit.com/r/CryptoCurrency+BlockChain+ledgerwallet+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+potcoin+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance)
 Telegram groups
 Other
 
