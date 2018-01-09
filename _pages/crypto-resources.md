@@ -18,21 +18,27 @@ Bitcoin, the first blockchain implementation by blockchain theorist Satoshi Naka
 
 # Question 2: How do I make money from this?
 
-With all new technologies and "bubbles", there is a lot of money to be made from volatile markets. Investing in start-ups through ICOs or just betting on which coin/token is going to become the new leader is capable of giving you 1000% returns, it for sure beats the 2% from your bank.
+With all new technologies and "bubbles", there is a lot of money to be made from volatile markets. Investing in start-ups through ICOs or just betting on which coin/token is going to become the new leader is capable of giving you 1000% returns, it for sure beats the 2% from your bank. A lot of people in the crypto space compare this to the 'dot com era' in the early 2000's where a lot of people made money from investing in the internet pioneers of today, such as Google and Facebook. If we were to compare the current status of the cryptocurrency market to the dot com era, we are currently only in the first 3.5% of that boom. What does that mean for us? There is plenty of room for this space to grow, and with that, there are plenty of profits to be made along the way. 
 
 # Question 3: How does one become a crypto investor?
 
 You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verfiy so you're not limited when the next market dip occurs!
 
-* To come
+www.coinbase.com*
+www.coincorner.com*
+www.bittylicious.com
+
+* - These have internal wallets which allow the customer to buy and store crypto currency on the website/mobile app. 
 
 Second, you'll want to move these to either an exchange for trading, or to a wallet to hold them securely long term.
 
-* www.bittrex.com
-* www.binance.com
-* www.kucoin.com
+www.bittrex.com  -  The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
 
-* Wallets coming soon
+www.binance.com  -  A Chinese exchnage widely used by investors and is currently on course to take over from Bittrex as the number 1                         exchange in terms of volume. This is the exchange I use most often on a day-to-day basis. Not only do they have a                       lot of large cap currencies, but binance is perfect for new projects coming out of ICO. 
+                  
+www.poloniex.com -  The American cousin of Bittrex         
+          
+www.kucoin.com   -  Up until recently this exchange was seen as a bit of an 'underdog' incomparrison to Bittrex and Binace, but over the                     past 2 months we have seen expanential growth. Definitely one to look out for, and a personal favourite of mine. If                     you hold their own coin Kucoin shares (KCS) on the exchange, you will be paid dividends in direct relation to the                       trading volume of that day. 
 
 # Question 4: Where can I learn more about the technical aspects?
 
@@ -52,6 +58,8 @@ More technical documents can be found in this list:
 
 
 # Question 5: What is an ICO?
+
+An ICO or Initial Coin Offering is similar to the traditional IPO as it is an opportunity to get involved in a company at their early stages. An IPO is the traditional way to invest in a company which would generally see the investor being able to make significant profits on their investment because you could purchase the stocks or equity prior to the release on stock exchanges. The only issue with IPOs is that they are limited to credible investors, which makes it virtually impossible for the everyday working man/woman to get involved. An ICO is similar in nature, as you are able to get into a crytopcurrency company pre-exchange but without the restrictions tied to it, meaning it is open to the general public. There are however some ICOs which restrict people from certain countries getting involved due to local law. These are typically the United States of America, Asia and Russia. The differece between the two is that with an IPO you are buying into a percentage of a company, whereas with an ICO you are investing in the coin or token prodeced by the company. 
 
 # Question 6: Where can find the latest ICOs?
 
