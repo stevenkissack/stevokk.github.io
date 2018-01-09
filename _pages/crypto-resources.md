@@ -24,11 +24,11 @@ With all new technologies and "bubbles", there is a lot of money to be made from
 
 You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verfiy so you're not limited when the next market dip occurs!
 
-[Coinbase*](www.coinbase.com)
+[Coinbase*](www.coinbase.com){:target="_blank"}
 
-[CoinCorner*](www.coincorner.com)
+[CoinCorner*](www.coincorner.com){:target="_blank"}
 
-[Bittylicious](www.bittylicious.com)
+[Bittylicious](www.bittylicious.com){:target="_blank"}
 
 
 \*  - These have internal wallets which allow the customer to buy and store crypto currency on the website/mobile app. 
@@ -37,18 +37,18 @@ You'll need to have some tools in your arsenal, first of all you need a way to m
 Second, you'll want to move these to either an exchange for trading, or to a wallet to hold them securely long term.
 
 
-[Bittrex](www.bittrex.com) - The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
+[Bittrex](www.bittrex.com){:target="_blank"} - The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
 
 
-[Binance](www.binance.com) - A Chinese exchnage widely used by investors and is currently on course to take over from Bittrex as the number 1                         exchange in terms of volume. This is the exchange I use most often on a day-to-day basis. Not only do they have a                       lot of large cap currencies, but binance is perfect for new projects coming out of ICO. 
+[Binance](www.binance.com){:target="_blank"} - A Chinese exchnage widely used by investors and is currently on course to take over from Bittrex as the number 1                         exchange in terms of volume. This is the exchange I use most often on a day-to-day basis. Not only do they have a                       lot of large cap currencies, but binance is perfect for new projects coming out of ICO. 
 
 
-[Poloniex](www.poloniex.com) - The American cousin of Bittrex         
+[Poloniex](www.poloniex.com){:target="_blank"} - The American cousin of Bittrex         
 
 
-[KuCoin](www.kucoin.com) - Up until recently this exchange was seen as a bit of an 'underdog' incomparrison to Bittrex and Binace, but over the past 2 months we have seen expanential growth. Definitely one to look out for, and a personal favourite of mine. If you hold their own coin Kucoin shares (KCS) on the exchange, you will be paid dividends in direct relation to the trading volume of that day.
+[KuCoin](www.kucoin.com){:target="_blank"} - Up until recently this exchange was seen as a bit of an 'underdog' incomparrison to Bittrex and Binace, but over the past 2 months we have seen expanential growth. Definitely one to look out for, and a personal favourite of mine. If you hold their own coin Kucoin shares (KCS) on the exchange, you will be paid dividends in direct relation to the trading volume of that day.
 
-[HitBTC](www.hitbtc.com)
+[HitBTC](www.hitbtc.com){:target="_blank"}
 
 # Question 4: Where can I learn more about the technical aspects?
 
@@ -76,8 +76,42 @@ An ICO or Initial Coin Offering is similar to the traditional IPO as it is an op
 # Question 7: Where do you get all of your information from?
 
 Youtube links
-Twitter accounts
-Reddit combi-link: [Most recent generated combination](https://reddit.com/r/CryptoCurrency+BlockChain+ledgerwallet+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+potcoin+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance)
+## Twitter
+
+Here are a list of Twitter accounts we recommend you follow as a basis:
+
+Public Figures
+- [Vitalik Buterin](https://twitter.com/VitalikButerin){:target="_blank"}
+- [Charlie Lee](https://twitter.com/SatoshiLite){:target="_blank"}
+- [John McAfee](https://twitter.com/officialmcafee){:target="_blank"} - Also a nutjob
+
+Investors
+- [crypto_k1d](https://twitter.com/crypto_k1d){:target="_blank"}
+- [Crypto_Ed_NL](https://twitter.com/Crypto_Ed_NL){:target="_blank"}
+- [ZeusZissou](https://twitter.com/ZeusZissou){:target="_blank"}
+- [WolfOfPoloniex](https://twitter.com/WolfOfPoloniex){:target="_blank"}
+- [crypto_rand](https://twitter.com/crypto_rand){:target="_blank"}
+- [DiaryofaMadeMan](https://twitter.com/DiaryofaMadeMan){:target="_blank"}
+- [CryptoCobain](https://twitter.com/CryptoCobain){:target="_blank"}
+- [ThisIsNuse](https://twitter.com/ThisIsNuse){:target="_blank"}
+- [TheCryptoDog](https://twitter.com/TheCryptoDog){:target="_blank"}
+- [Mansa_Godson](https://twitter.com/Mansa_Godson){:target="_blank"}
+- [Yorkyor30444439](https://twitter.com/Yorkyor30444439){:target="_blank"}
+- [CryptoTutor](https://twitter.com/CryptoTutor){:target="_blank"}
+
+Exchanges 
+- [Bittrex](https://twitter.com/BittrexExchange){:target="_blank"}
+- [Coinbase](https://twitter.com/coinbase){:target="_blank"}
+
+Other
+- [CryptoHumor](https://twitter.com/CryptoHumor){:target="_blank"}
+- [Coinmarketcal](https://twitter.com/coinmarketcal){:target="_blank"}
+
+You may also want to use [tweetdeck](https://tweetdeck.twitter.com/){:target="_blank"} for a realtime view of activity, you can also set custom watches with audible alerts.
+
+
+
+Reddit combi-link: [Most recent generated combination](https://reddit.com/r/CryptoCurrency+BlockChain+ledgerwallet+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+potcoin+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance){:target="_blank"}
 Telegram groups
 Other
 
@@ -107,10 +141,10 @@ One way to approach this is to apply techniques developed for the stock market, 
 # Proposing changes to this document
  This site is hosted on Github and written in markdown, feel free to submit a pull request. I am more than happy to also improve this document if you want to contact me directly. For information on how to get started with this, see the below links:
 
- * [Editing files in another users respository](https://help.github.com/articles/editing-files-in-another-user-s-repository/)
- * [Markdown language reference guide](https://kramdown.gettalong.org/quickref.html)
+ * [Editing files in another users respository](https://help.github.com/articles/editing-files-in-another-user-s-repository/){:target="_blank"}
+ * [Markdown language reference guide](https://kramdown.gettalong.org/quickref.html){:target="_blank"}
 
-# Donate
+# Donations
  Ethereum address: 0x1Bc1eB08c33F75998a38fcBfF86A63Db92323dBF
 
 Donations appreciated to keep the group running!
