@@ -75,8 +75,12 @@ An ICO or Initial Coin Offering is similar to the traditional IPO as it is an op
 
 # Question 7: Where do you get all of your information from?
 
-Youtube links
-## Twitter
+Information sources varies depending on what you're investing, if you're day trading and what exchanges you operate on. 
+
+## Youtube Channels
+
+
+## Twitter Accounts
 
 Here are a list of Twitter accounts we recommend you follow as a basis:
 
@@ -109,11 +113,19 @@ Other
 
 You may also want to use [tweetdeck](https://tweetdeck.twitter.com/){:target="_blank"} for a realtime view of activity, you can also set custom watches with audible alerts.
 
+## Reddit
 
+the easiest way to stay up to date it to use a combination link so that all sub-reddits appear on the same page. You will have your own subreddits that you like to check, but below is a good basis.
 
-Reddit combi-link: [Most recent generated combination](https://reddit.com/r/CryptoCurrency+BlockChain+ledgerwallet+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+potcoin+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance){:target="_blank"}
-Telegram groups
-Other
+[https://reddit.com/r/CryptoCurrency+BlockChain+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance](https://reddit.com/r/CryptoCurrency+BlockChain+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance){:target="_blank"}
+
+## Telegram Groups
+
+Soon.
+
+## Other
+
+Soon.
 
 # Question 8: How to improve your market predictions?
 
