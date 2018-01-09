@@ -115,9 +115,11 @@ You may also want to use [tweetdeck](https://tweetdeck.twitter.com/){:target="_b
 
 ## Reddit
 
-the easiest way to stay up to date it to use a combination link so that all sub-reddits appear on the same page. You will have your own subreddits that you like to check, but below is a good basis.
+the easiest way to stay up to date it to use a combination link so that all sub-reddits appear on the same page. You will have your own subreddits that you like to check, but below is a good basis. Similar things can be achieved by signing up and subscribing to your interested subreddits.
 
 [https://reddit.com/r/CryptoCurrency+BlockChain+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance](https://reddit.com/r/CryptoCurrency+BlockChain+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance){:target="_blank"}
+
+You may also want to improve your reddit browsing experience by installing the RES extension, [Chrome Link](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb){:target="_blank"}
 
 ## Telegram Groups
 
