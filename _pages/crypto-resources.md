@@ -24,11 +24,11 @@ With all new technologies and "bubbles", there is a lot of money to be made from
 
 You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verfiy so you're not limited when the next market dip occurs!
 
-[Coinbase*](www.coinbase.com){:target="_blank"}
+[Coinbase*](https://www.coinbase.com/){:target="_blank"}
 
-[CoinCorner*](www.coincorner.com){:target="_blank"}
+[CoinCorner*](https://www.coincorner.com/){:target="_blank"}
 
-[Bittylicious](www.bittylicious.com){:target="_blank"}
+[Bittylicious](https://www.bittylicious.com/){:target="_blank"}
 
 
 \*  - These have internal wallets which allow the customer to buy and store crypto currency on the website/mobile app. 
@@ -37,18 +37,18 @@ You'll need to have some tools in your arsenal, first of all you need a way to m
 Second, you'll want to move these to either an exchange for trading, or to a wallet to hold them securely long term.
 
 
-[Bittrex](www.bittrex.com){:target="_blank"} - The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
+[Bittrex](https://www.bittrex.com/){:target="_blank"} - The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
 
 
-[Binance](www.binance.com){:target="_blank"} - A Chinese exchnage widely used by investors and is currently on course to take over from Bittrex as the number 1                         exchange in terms of volume. This is the exchange I use most often on a day-to-day basis. Not only do they have a                       lot of large cap currencies, but binance is perfect for new projects coming out of ICO. 
+[Binance](https://www.binance.com/){:target="_blank"} - A Chinese exchnage widely used by investors and is currently on course to take over from Bittrex as the number 1                         exchange in terms of volume. This is the exchange I use most often on a day-to-day basis. Not only do they have a                       lot of large cap currencies, but binance is perfect for new projects coming out of ICO. 
 
 
-[Poloniex](www.poloniex.com){:target="_blank"} - The American cousin of Bittrex         
+[Poloniex](https://www.poloniex.com/){:target="_blank"} - The American cousin of Bittrex         
 
 
-[KuCoin](www.kucoin.com){:target="_blank"} - Up until recently this exchange was seen as a bit of an 'underdog' incomparrison to Bittrex and Binace, but over the past 2 months we have seen expanential growth. Definitely one to look out for, and a personal favourite of mine. If you hold their own coin Kucoin shares (KCS) on the exchange, you will be paid dividends in direct relation to the trading volume of that day.
+[KuCoin](https://www.kucoin.com/){:target="_blank"} - Up until recently this exchange was seen as a bit of an 'underdog' incomparrison to Bittrex and Binace, but over the past 2 months we have seen expanential growth. Definitely one to look out for, and a personal favourite of mine. If you hold their own coin Kucoin shares (KCS) on the exchange, you will be paid dividends in direct relation to the trading volume of that day.
 
-[HitBTC](www.hitbtc.com){:target="_blank"}
+[HitBTC](https://www.hitbtc.com/){:target="_blank"}
 
 # Question 4: Where can I learn more about the technical aspects?
 
