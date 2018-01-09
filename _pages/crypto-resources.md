@@ -20,7 +20,7 @@ Bitcoin, the first blockchain implementation by blockchain theorist Satoshi Naka
 
 With all new technologies and "bubbles", there is a lot of money to be made from volatile markets. Investing in start-ups through ICOs or just betting on which coin/token is going to become the new leader is capable of giving you 1000% returns, it for sure beats the 2% from your bank. A lot of people in the crypto space compare this to the 'dot com era' in the early 2000's where a lot of people made money from investing in the internet pioneers of today, such as Google and Facebook. If we were to compare the current status of the cryptocurrency market to the dot com era, we are currently only in the first 3.5% of that boom. What does that mean for us? There is plenty of room for this space to grow, and with that, there are plenty of profits to be made along the way. 
 
-# Question 3: How does one become a crypto investor?
+# Question 3: What do I need to invest?
 
 You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verfiy so you're not limited when the next market dip occurs!
 
@@ -34,7 +34,9 @@ You'll need to have some tools in your arsenal, first of all you need a way to m
 \*  - These have internal wallets which allow the customer to buy and store crypto currency on the website/mobile app. 
 
 
+
 Second, you'll want to move these to either an exchange for trading, or to a wallet to hold them securely long term.
+
 
 
 [Bittrex](https://www.bittrex.com/){:target="_blank"} - The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
@@ -49,6 +51,11 @@ Second, you'll want to move these to either an exchange for trading, or to a wal
 [KuCoin](https://www.kucoin.com/){:target="_blank"} - Up until recently this exchange was seen as a bit of an 'underdog' incomparrison to Bittrex and Binace, but over the past 2 months we have seen expanential growth. Definitely one to look out for, and a personal favourite of mine. If you hold their own coin Kucoin shares (KCS) on the exchange, you will be paid dividends in direct relation to the trading volume of that day.
 
 [HitBTC](https://www.hitbtc.com/){:target="_blank"}
+
+## Mobile Apps
+
+- Blockfolio
+- Coin Market Cap App
 
 # Question 4: Where can I learn more about the technical aspects?
 
@@ -123,7 +130,9 @@ You may also want to improve your reddit browsing experience by installing the R
 
 ## Telegram Groups
 
-Soon.
+- Cryptology
+- Crypto Elite Altcoins
+- Crypto Elite Elysium
 
 ## Other
 
