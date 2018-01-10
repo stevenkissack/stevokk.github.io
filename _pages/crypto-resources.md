@@ -30,13 +30,9 @@ You'll need to have some tools in your arsenal, first of all you need a way to m
 
 [Bittylicious](https://www.bittylicious.com/){:target="_blank"}
 
-
 \*  - These have internal wallets which allow the customer to buy and store crypto currency on the website/mobile app. 
 
-
-
 Second, you'll want to move these to either an exchange for trading, or to a wallet to hold them securely long term.
-
 
 
 [Bittrex](https://www.bittrex.com/){:target="_blank"} - The biggest exchange to date. You will find a lot of the large cap cryptocurrencies here such as XRP, NEO and OMG.
@@ -52,19 +48,17 @@ Second, you'll want to move these to either an exchange for trading, or to a wal
 
 [HitBTC](https://www.hitbtc.com/){:target="_blank"}
 
+
 ## Mobile Apps
 
 - Google Authenticator - Highly recommended to add that extra level of security to your exchanges.
 
-- Blockfolio           - Great tool to monitor your portfolio progress, and allows you to set up price alerts.
+- [Blockfolio](https://www.blockfolio.com/){:target="_blank"} - Great tool to monitor your portfolio progress, and allows you to set up price alerts.
 
-- Coin Market Cap App* - Allows you to track almost every coin/token price, market cap and find the exchanges assosiated to a each                                coin/token. 
+- [Binance Exchange App](https://support.binance.com/hc/en-us/articles/115001507851-Binance-Android-iOS-APP-Release){:target="_blank"} - As you would expect, a mobile app for Binance exchange.
 
-- Binace Exchange App  - As you would expect, a mobile app for Binance exchange.
+- [Telegram](https://telegram.org/apps){:target="_blank"} - Great source of information. Seen as the Whatsapp of the crypto world. * Also available on desktop.
 
-- Telegram             - Great source of information. Seen as the Whatsapp of the crypto world.
-
-  * All prices found on coin market cap are an AVERAGE of all exchanges the coin/token is currently lited on.
 
 # Question 4: Where can I learn more about the technical aspects?
 
@@ -101,6 +95,11 @@ https://t.me/joinchat/AAAAAENy99pQe8fmAW418Q
 # Question 7: Where do you get all of your information from?
 
 Information sources varies depending on what you're investing, if you're day trading and what exchanges you operate on. 
+
+
+- Coin Market Cap * - Allows you to track almost every coin/token price, market cap and find the exchanges assosiated to a each                                coin/token. 
+
+\* All prices found on coin market cap are an AVERAGE of all exchanges the coin/token is currently lited on.
 
 ## Youtube Channels
 
