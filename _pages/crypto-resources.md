@@ -24,7 +24,7 @@ With all new technologies and "bubbles", there is a lot of money to be made from
 
 # Question 3: What do I need to invest?
 
-You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verify so you're not limited when the next market dip occurs!
+You'll need to have some tools in your arsenal, first of all you need a way to move your money from fiat currencies such as USD & GBP to crpytocurrenices. This is ironically the slowest part due to financial regulation, so make sure you get this going straight away and verfiy so you're not limited when the next market dip occurs!
 
 [Coinbase*](https://www.coinbase.com/){:target="_blank"}
 
@@ -56,8 +56,17 @@ Second, you'll want to move these to either an exchange for trading, or to a wal
 
 ## Mobile Apps
 
-- Blockfolio
-- Coin Market Cap App
+- Google Authenticator - Highly recommended to add that extra level of security to your exchanges.
+
+- Blockfolio           - Great tool to monitor your portfolio progress, and allows you to set up price alerts.
+
+- Coin Market Cap App* - Allows you to track almost every coin/token price, market cap and find the exchanges assosiated to a each                                coin/token. 
+
+- Binace Exchange App  - As you would expect, a mobile app for Binance exchange.
+
+- Telegram             - Great source of information. Seen as the Whatsapp of the crypto world.
+
+* All prices found on coin market cap are an AVERAGE of all exchanges the coin/token is currently lited on.
 
 # Question 4: Where can I learn more about the technical aspects?
 
@@ -81,6 +90,15 @@ More technical documents can be found in this list:
 An ICO or Initial Coin Offering is similar to the traditional IPO as it is an opportunity to get involved in a company at their early stages. An IPO is the traditional way to invest in a company which would generally allow the investor being able to make significant profits on their investment because you could purchase the stocks or equity prior to the release on stock exchanges. The only issue with IPOs is that they are limited to credible investors, which makes it virtually impossible for the everyday working man/woman to get involved. An ICO is similar in nature, as you are able to get into a crytopcurrency company pre-exchange but without the restrictions tied to it, meaning it is open to the general public. There are however some ICOs which restrict people from certain countries getting involved due to local law. These are typically the United States of America, Asia and Russia. The differece between the two is that with an IPO you are buying into a percentage of a company, whereas with an ICO you are investing in the coin or token prodeced by the company. 
 
 # Question 6: Where can find the latest ICOs?
+
+There are several websites to find information on the latest ICOs, but the one I use the most is https://www.coinschedule.com/. I like it because of it's clear layout, and ease of use. Every ICO have their own whitepaper, which is used to explain the fundementals of each company. Within the whitepaper you will typically find about who the company are, what they are trying to achieve and the details on how they're planning to achieve it. They will usually detail how they plan to use the funding of the ICO to scale the business to where they want it to be, and what percentages will be distributed and where. There are many strategies that people use to 'cherry pick' the best ICOs, but from what I have seen I would strongly recommend following Ian Balina on youtube and telegram (links below). Ian uses a maticulous process to quickly filter out good ICOs from bad. He documents all ICOs that he has reviewed, gives them a rating in terms of percentage and even publishes the amount of capital he is willing to invest in each project. I would not recommend to blindly follow anyone, there are lots of good reviews online so if you find an ICO that you believe will do well I would recommend doing your own due diligence by reading any whitepaper before commiting to an investment, and always go with your gut feeling. 
+
+https://www.youtube.com/channel/UCT5IB8qqnIolnkuUj8a1kEQ
+
+http://ianbalina.com/spreadsheet
+
+https://t.me/joinchat/AAAAAENy99pQe8fmAW418Q
+
 
 # Question 7: Where do you get all of your information from?
 
@@ -145,17 +163,6 @@ Soon.
 One way to approach this is to apply techniques developed for the stock market, this is commonly referred to as "Technical Analysis" or "TA" for short. As much as this is backed by years of data modelling and research, you are playing with very volatile and unpredictable markets where a single bit of mis-interpreted news can cause a major panic sell among investors. Here are some good quality links to get you going:
 
 * List of TA articles 
-
-# Question 9: How can I keep everything secure?
-
-Security is a major concern when working within a decentralised market, it is not often that you'll simply be able to e-mail support and recover stolen funds. Here are the key points to staying stafe:
-
-* Hardware wallet - A must have for all serious investors, this device is relatively cheap compared to having your accounts compromised. It will keep your private keys secure even if you're working from a compromised computer.
-* 2 Factor Authentication (2FA) - Enable this on your exchange accounts, the most common 2FA method is using the Google Authenticator (Install the mobile app), it will prompt for a secret code before allowing any logins on the exchanges.
-* Double checking the URL before inputting any sensitive data, common hacks occur when somebody accidentally visits a phishing and logs in. Usually the site looks 100% legit but the addresses you're depositing to are swapped to the scammers own address.
-* Identifying scammers - This is a highly technical market, and being new people can usually convince you to share sensitive data by overloading you with information. Most commonly you'll be asked for your secret key of your online wallets, NEVER share this key, you will be handing over everything.
-
-If it sounds too good to be true, it probably is. If in doubt, don't be afraid to ask questions to us directly or to the Coinology telegram group.
 
 # Acronym Breakdown
 
