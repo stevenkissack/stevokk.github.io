@@ -99,7 +99,7 @@ https://t.me/joinchat/AAAAAENy99pQe8fmAW418Q
 Information sources varies depending on what you're investing, if you're day trading and what exchanges you operate on. 
 
 
-- Coin Market Cap * - Allows you to track almost every coin/token price, market cap and find the exchanges assosiated to a each                                coin/token. 
+- [Coin Market Cap](https://coinmarketcap.com/){target:"_blank"} * - Allows you to track almost every coin/token price, market cap and find the exchanges assosiated to a each                                coin/token. 
 
 \* All prices found on coin market cap are an AVERAGE of all exchanges the coin/token is currently lited on.
 
@@ -142,13 +142,37 @@ Other
 - [CryptoHumor](https://twitter.com/CryptoHumor){:target="_blank"}
 - [Coinmarketcal](https://twitter.com/coinmarketcal){:target="_blank"}
 
-You may also want to use [tweetdeck](https://tweetdeck.twitter.com/){:target="_blank"} for a realtime view of activity, you can also set custom watches with audible alerts.
+You may also want to use [Tweetdeck](https://tweetdeck.twitter.com/){:target="_blank"} for a realtime view of activity, you can also set custom watches with audible alerts.
 
 ## Reddit
 
-the easiest way to stay up to date it to use a combination link so that all sub-reddits appear on the same page. You will have your own subreddits that you like to check, but below is a good basis. Similar things can be achieved by signing up and subscribing to your interested subreddits.
+Sign up for a reddit account and follow subreddits surrounding what you want to follow, here are some to get you started:
 
-[https://reddit.com/r/CryptoCurrency+BlockChain+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance](https://reddit.com/r/CryptoCurrency+BlockChain+Bitcoin+BitcoinSerious+ethereum+ethdev+Iota+btc+litecoin+omise_go+Lisk+BATProject+PowerLedger+ethtrader+BitcoinMarkets+CryptoMarkets+icocrypto+CoinBase+bittrex+binance){:target="_blank"}
+* [CryptoCurrency](https://reddit.com/r/CryptoCurrency){:target="_blank"}
+* [BlockChain](https://reddit.com/r/BlockChain){:target="_blank"}
+
+* [Bitcoin](https://reddit.com/r/Bitcoin){:target="_blank"}
+* [btc](https://reddit.com/r/btc){:target="_blank"}
+* [BitcoinSerious](https://reddit.com/r/BitcoinSerious){:target="_blank"}
+
+* [ethereum](https://reddit.com/r/ethereum){:target="_blank"}
+* [ethdev](https://reddit.com/r/ethdev){:target="_blank"}
+
+* [Iota](https://reddit.com/r/Iota){:target="_blank"}
+* [litecoin](https://reddit.com/r/litecoin){:target="_blank"}
+* [omise_go](https://reddit.com/r/omise_go){:target="_blank"}
+* [Lisk](https://reddit.com/r/Lisk){:target="_blank"}
+* [BATProject](https://reddit.com/r/BATProject){:target="_blank"}
+* [PowerLedger](https://reddit.com/r/PowerLedger){:target="_blank"}
+
+* [ethtrader](https://reddit.com/r/ethtrader){:target="_blank"}
+* [BitcoinMarkets](https://reddit.com/r/BitcoinMarkets){:target="_blank"}
+* [CryptoMarkets](https://reddit.com/r/CryptoMarkets){:target="_blank"}
+* [icocrypto](https://reddit.com/r/icocrypto){:target="_blank"}
+
+* [CoinBase](https://reddit.com/r/CoinBase){:target="_blank"}
+* [Bittrex](https://reddit.com/r/bittrex){:target="_blank"}
+* [Binance](https://reddit.com/r/binance){:target="_blank"}
 
 You may also want to improve your reddit browsing experience by installing the RES extension, [Chrome Link](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb){:target="_blank"}
 
