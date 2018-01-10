@@ -14,7 +14,9 @@ Below is a collection of resources meant to help kick start your cryptocurreny a
 
 Without delving too deep in to the history of fiat currency and questionable monetary policies behind the world's biggest banking reserve, blockchain (the underlying concept behind Bitcoin) matters as it removes the centralisation and need for trust aspect of transfers of value.
 
-Bitcoin, the first blockchain implementation by blockchain theorist Satoshi Nakamoto, was created with an hard limited supply of 21 million coins. These coins are distributed automatically as a reward for people "miners" who work to secure the network by processing transactions. We will not be going into the details of becoming a miner of the network as you first need a solid foundation of cryptocurrencies as a whole.
+Bitcoin, the first blockchain implementation by blockchain theorist Satoshi Nakamoto, was created with an hard limited supply of 21 million coins. These coins are distributed automatically as a reward for people "miners" who work to secure the network by processing transactions. Bitcoin on it's own wouldn't have value unless it was desired by someone else and able to be traded, but as suppliers and investors look to buy or accept Bitcoin as payment, it makes it an economic currency. (We will not be going into becoming a miner as you first need a good understanding of cryptocurrency)
+
+Once the 21 million coins are distributed, the network will run on only transaction fees so don't worry about a great bubble "bursting", this is purely sensationalist news spread by media or investors who stand to gain from a lower entry cost. The coins are also easily divisable into smaller units called a "Satoshi" (0.00000001 BTC)
 
 # Question 2: How do I make money from this?
 
