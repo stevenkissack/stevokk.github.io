@@ -164,6 +164,17 @@ One way to approach this is to apply techniques developed for the stock market, 
 
 * List of TA articles 
 
+# Question 9: How can I keep everything secure?		
+		
+Security is a major concern when working within a decentralised market, it is not often that you'll simply be able to e-mail support and recover stolen funds. Here are the key points to staying stafe:		
+		
+* Hardware wallet - A must have for all serious investors, this device is relatively cheap compared to having your accounts compromised. It will keep your private keys secure even if you're working from a compromised computer.		
+* 2 Factor Authentication (2FA) - Enable this on your exchange accounts, the most common 2FA method is using the Google Authenticator (Install the mobile app), it will prompt for a secret code before allowing any logins on the exchanges.		
+* Double checking the URL before inputting any sensitive data, common hacks occur when somebody accidentally visits a phishing and logs in. Usually the site looks 100% legit but the addresses you're depositing to are swapped to the scammers own address.		
+* Identifying scammers - This is a highly technical market, and being new people can usually convince you to share sensitive data by overloading you with information. Most commonly you'll be asked for your secret key of your online wallets, NEVER share this key, you will be handing over everything.		
+		
+If it sounds too good to be true, it probably is. If in doubt, don't be afraid to ask questions to us directly or to the Coinology telegram group.
+
 # Acronym Breakdown
 
 | FOMO | Fear of missing out |
