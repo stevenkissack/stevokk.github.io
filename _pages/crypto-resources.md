@@ -142,7 +142,9 @@ Other
 - [CryptoHumor](https://twitter.com/CryptoHumor){:target="_blank"}
 - [Coinmarketcal](https://twitter.com/coinmarketcal){:target="_blank"}
 
-You may also want to use [Tweetdeck](https://tweetdeck.twitter.com/){:target="_blank"} for a realtime view of activity, you can also set custom watches with audible alerts.
+You may also want to use [Tweetdeck](https://tweetdeck.twitter.com/){:target="_blank"} for a realtime view of activity, you can also set custom watches with audible alerts. This is how I setup my screen, you'll notice the extra column for crypto_rand as they've made good calls recently.
+
+![tweetdeck example screenshot](/images/tweetdeck-crypto.jpg){:class="img-responsive" style="max-width:80%;margin:0 auto;"}
 
 ## Reddit
 
