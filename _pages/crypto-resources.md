@@ -14,7 +14,9 @@ Below is a collection of resources meant to help kick start your cryptocurreny a
 
 Without delving too deep in to the history of fiat currency and questionable monetary policies behind the world's biggest banking reserve, blockchain (the underlying concept behind Bitcoin) matters as it removes the centralisation and need for trust aspect of transfers of value.
 
-Bitcoin, the first blockchain implementation by blockchain theorist Satoshi Nakamoto, was created with an hard limited supply of 21 million coins. These coins are distributed automatically as a reward for people "miners" who work to secure the network by processing transactions. We will not be going into the details of becoming a miner of the network as you first need a solid foundation of cryptocurrencies as a whole.
+Bitcoin, the first blockchain implementation by blockchain theorist Satoshi Nakamoto, was created with an hard limited supply of 21 million coins. These coins are distributed automatically as a reward for people "miners" who work to secure the network by processing transactions. Bitcoin on it's own wouldn't have value unless it was desired by someone else and able to be traded, but as suppliers and investors look to buy or accept Bitcoin as payment, it makes it an economic currency. (We will not be going into becoming a miner as you first need a good understanding of cryptocurrency)
+
+Once the 21 million coins are distributed, the network will run on only transaction fees so don't worry about a great bubble "bursting", this is mostly sensationalist news spread by media or investors who stand to gain from a lower entry cost. The coins are also easily divisable into smaller units called a "Satoshi" (0.00000001 BTC)
 
 # Question 2: How do I make money from this?
 
@@ -103,9 +105,9 @@ Information sources varies depending on what you're investing, if you're day tra
 
 ## Youtube Channels
 
-Boxmining: Michael is a great at keeping you up to date will all of the latest news around crypto. When I first started out I found his youtube channel great for reasurace when the market took a turn for the worse. In the past few months, crypto seems to have become much more stable and less influenced by bad news, or FUD (Fear, Uncertainty & Doubt) than it was in the earlier days, but it still can and will have an inpact.  https://www.youtube.com/channel/UCxODjeUwZHk3p-7TU-IsDOA
+* Boxmining - Michael is a great at keeping you up to date will all of the latest news around crypto. When I first started out I found his youtube channel great for reasurace when the market took a turn for the worse. In the past few months, crypto seems to have become much more stable and less influenced by bad news, or FUD (Fear, Uncertainty & Doubt) than it was in the earlier days, but it still can and will have an inpact.  https://www.youtube.com/channel/UCxODjeUwZHk3p-7TU-IsDOA
 
-Suppoman: His loud, animated nature is not for everyone's tastes, however I have found that he is a very knowledgable person and a great source of information for up and coming coins/tokens and ICOs. He has a very large following on youtube and has other communites on other forms of social media such as Facebook, and Twitter as well as on the crypto social media platform, Steemit.com. There are two ways he choses to conduct his daily streams, Savage Cash and Savage Crypto - Savage cash is where he talks generally about the market as a whole, suggests coins thst he is investing in and gives an overall summary of the market cap for that particual day. Savage Crypto is where he reviews usually under the radar ICO's and gives them a rating out of 5 at the end, along with whether he intends to invest, and what his strategy for the particular ICO will be. He is a notorious long time holder, and if you look back at his past videos, this strategy has paid off massively for him. https://www.youtube.com/channel/UCCmJln4C_CszIusbJ_MHmfQ
+* Suppoman - His loud, animated nature is not for everyone's tastes, however I have found that he is a very knowledgable person and a great source of information for up and coming coins/tokens and ICOs. He has a very large following on youtube and has other communites on other forms of social media such as Facebook, and Twitter as well as on the crypto social media platform, Steemit.com. There are two ways he choses to conduct his daily streams, Savage Cash and Savage Crypto - Savage cash is where he talks generally about the market as a whole, suggests coins thst he is investing in and gives an overall summary of the market cap for that particual day. Savage Crypto is where he reviews usually under the radar ICO's and gives them a rating out of 5 at the end, along with whether he intends to invest, and what his strategy for the particular ICO will be. He is a notorious long time holder, and if you look back at his past videos, this strategy has paid off massively for him. https://www.youtube.com/channel/UCCmJln4C_CszIusbJ_MHmfQ
 
 Ian Balina: I speak highly of Ian in the ICOs section. With his proven track record for success at finding profitable ICOs, his strategies are sure to assit with the formation of your own ICO vetting process. https://www.youtube.com/channel/UCT5IB8qqnIolnkuUj8a1kEQ
 
@@ -164,7 +166,18 @@ Soon.
 
 One way to approach this is to apply techniques developed for the stock market, this is commonly referred to as "Technical Analysis" or "TA" for short. As much as this is backed by years of data modelling and research, you are playing with very volatile and unpredictable markets where a single bit of mis-interpreted news can cause a major panic sell among investors. Here are some good quality links to get you going:
 
-* List of TA articles 
+* List of TA articles
+
+# Question 9: How can I keep everything secure?		
+ 		
+Security is a major concern when working within a decentralised market, it is not often that you'll simply be able to e-mail support and recover stolen funds. Here are the key points to staying stafe:		
+ 		
+* Hardware wallet - A must have for all serious investors, this device is relatively cheap compared to having your accounts compromised. It will keep your private keys secure even if you're working from a compromised computer.		
+* 2 Factor Authentication (2FA) - Enable this on your exchange accounts, the most common 2FA method is using the Google Authenticator (Install the mobile app), it will prompt for a secret code before allowing any logins on the exchanges.		
+* Double checking the URL before inputting any sensitive data, common hacks occur when somebody accidentally visits a phishing and logs in. Usually the site looks 100% legit but the addresses you're depositing to are swapped to the scammers own address.		    
+* Identifying scammers - This is a highly technical market, and being new people can usually convince you to share sensitive data by overloading you with information. Most commonly you'll be asked for your secret key of your online wallets, NEVER share this key, you will be handing over everything.		
+ 		
+If it sounds too good to be true, it probably is. If in doubt, don't be afraid to ask questions to us directly or to the Coinology telegram group.
 
 # Acronym Breakdown
 
