@@ -66,17 +66,16 @@ Second, you'll want to move these to either an exchange for trading, or to a wal
 
 Youtube is a great starting point as it provides a visual overview of the blockchain in action:
 
-Youtube link
+The most basic version of blockchain technology as seen in Bitcoin:
+[How does blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4){:target="_blank"}
 
-Once you've understood the above, you can move on to the idea of a programmable blockchain with coins such as Ethereum:
+The basis of Ethereum:
+[Smart Contracts explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI){:target="_blank"}
 
-Youtube link
+The DAG/Tangle:
+[IOTA's Tangle](https://www.youtube.com/watch?v=CZxH1V_zoug){:target="_blank"}
 
-And eventually expand your understanding to competing designs of the blockchain such as the Tangle:
-
-Youtube link
-
-More technical documents can be found in this list:
+More technical items will be added soon.
 
 
 # Question 5: What is an ICO?
