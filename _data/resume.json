@@ -1,0 +1,203 @@
+{
+    "basics": {
+      "name": "Steven Kissack",
+      "label": "Software Developer",
+      "picture": "/images/profile-android.png",
+      "email": "Steven.Kissack@gmail.com",
+      "phone": "+44 7624 343537",
+      "website": "https://stevenkissack.com",
+      "summary": "Currently travelling and working remotely on projects that interest me, I am looking for start-up opportunities in the technology space. Reach out if you're in need for a technical member to help with the ideation & grind. I hold a Manx (British National) and Irish Citizenship.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+      },
+      "birth": {
+        "place": "Isle of Man",
+        "date": "1991"
+      },
+      "profiles": [
+        {
+          "network": "Github",
+          "username": "stevokk",
+          "url": "https://github.com/stevokk"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "Steven Kissack",
+          "url": "https://www.linkedin.com/in/steven-kissack-68882337/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "GreySnowPoker",
+        "position": "Software Developer (Contractor)",
+        "website": "https://www.greysnowpoker.com",
+        "startDate": "2018-01-22",
+        "endDate": "2018-08-27",
+        "summary": "Mainly working on building the web infrastructure and codebase from scratch using bleeding edge tools such as Next.JS (Server Side Rendering), GraphQL and Docker Swarm. Daily tasks involved Trello management for other developers, feature development and planning technical changes to support the business.",
+        "highlights": ["Architecture", "React", "Next.js", "Node.js", "GraphQL", "Docker", "Linux", "Trello", "BitBucket"]
+      },
+      {
+        "company": "Interactive Pty Ltd",
+        "position": "Frontend Developer (Contractor)",
+        "website": "https://www.interactive.com.au/",
+        "startDate": "2017-05-15",
+        "endDate": "2017-11-19",
+        "summary": "Whilst travelling around Australia I decided to stay out my remaining visa in Melbourne. I joined Interactive and worked in the software team to develop client solutions for a variety of problems including but not limited to: Kiosks, Web Apps & DevOps.",
+        "highlights": ["React", "Redux", "React Native", "Webpack", "Electron", "OAuth", "XAML", "Bamboo", "Zeplin"]
+      },
+      {
+        "company": "PokerStars",
+        "position": "Senior Web Software Engineer",
+        "website": "https://www.pokerstars.com/",
+        "startDate": "2016-09-01",
+        "endDate": "2016-11-09",
+        "summary": "After being promoted to Senior Web Software Engineer, I was part of and managed many projects involving internal and external developers. My main duties were to lead the front-end Angular 1 development, architect and build Node.JS services, and take part in technical discussions.",
+        "highlights": ["Angular", "Gulp", "Node.js", "Express", "Agile", "Jira"]
+      },
+      {
+        "company": "PokerStars",
+        "position": "Web Developer",
+        "website": "https://www.pokerstars.com/",
+        "startDate": "2013-12-16",
+        "endDate": "2016-09-01",
+        "summary": "Responsibilities included developing features for a Perl based CMS, supporting WordPress installs, managing CentOS servers and prototyping web applications whilst also helping improve our blog and TV site offering.",
+        "highlights": ["HTML5", "CSS3", "SASS", "LESS", "CentOS", "Wordpress", "Perl"]
+      },
+      {
+        "company": "Iforium",
+        "position": "Software Engineer",
+        "website": "http://www.iforium.com/",
+        "startDate": "2012-09-01",
+        "endDate": "2013-12-13",
+        "summary": "Main duties were to develop the front-end for casino sites and to extend the back office system. I worked with C#, MSSQL, XSLT, JavaScript, and HTML, working on anything from front-end payment provider integrations to seamless game launching. Other side projects include Linux server installs and prototyping mobile applications for clients.",
+        "highlights": ["C#", "XSLT", "JavaScript", "jQuery", "HTML"]
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "University of Chester",
+        "area": "Computer Science",
+        "studyType": "Bsc Hons",
+        "startDate": "2009-06-01",
+        "endDate": "2012-01-01",
+        "gpa": "First Class",
+        "courses": []
+      },
+      {
+        "institution": "Isle of Man College",
+        "area": "Computer Networking",
+        "studyType": "National Dip.",
+        "startDate": "2007-06-01",
+        "endDate": "2009-06-01",
+        "gpa": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Frontend",
+        "level": "Advanced",
+        "keywords": [
+          "HTML5",
+          "XAML",
+          "Markdown",
+          "CSS",
+          "LESS & SASS",
+          "Javascript / ECMAScript",
+          "React & Redux",
+          "React Native & Expo",
+          "Next.js (Serverside Render)",
+          "Webpack & Gulp",
+          "Jekyll"
+        ]
+      },
+      {
+        "name": "Backend",
+        "level": "Advanced",
+        "keywords": [
+          "Node.js & Express",
+          "GraphQL",
+          "SQL & NoSQL",
+          "Redis",
+          "Linux",
+          "OAuth 2.0",
+          "Git & SVN Version Control",
+          "CI/CD & Docker Containers",
+          "GCloud: App Engine (Serverless) & Cloud Builder",
+          "Bitbucket & Bamboo Pipelines"
+        ]
+      },
+      {
+        "name": "Currently Learning",
+        "keywords": [
+          "Golang",
+          "Blockchain & DAPP Development",
+          "Spanish"
+        ]
+      },
+      {
+        "name": "Leader / Management",
+        "keywords": [
+          "Jira & Agile + Installation & Advanced Configuration",
+          "Trello",
+          "Project Tracking & Timelines",
+          "Charting - Gannt, Burndown, etc",
+          "Specification Writing",
+          "Time Management",
+          "Team Management",
+          "Scrum Methodology",
+          "Developer Mentoring"
+        ]
+      },
+      {
+        "name": "Retired Skills",
+        "keywords": [
+          "Angular 1",
+          "C#",
+          "XSLT",
+          "UWP",
+          "Perl",
+          "Android Java",
+          "Wordpress",
+          "jQuery"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Snowboarding",
+        "keywords": []
+      },
+      {
+        "name": "Skydiving",
+        "keywords": []
+      },
+      {
+        "name": "Running",
+        "keywords": []
+      },
+      {
+        "name": "Socialising",
+        "keywords": []
+      },
+      {
+        "name": "",
+        "keywords": []
+      }
+    ],
+    "references": []
+  }

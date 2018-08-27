@@ -16,7 +16,7 @@
     
     <!-- Fonts -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
-    <!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     
     <!-- Styles -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -26,4 +26,4 @@
     <link rel="preload" href="/images/bg_melb_mavic_blur_md.jpg" as="image">
 
 </head>
-<body class="background-cover {{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}" style="{% if page.url == "/" %}background-color: rgba(70,86,125,1); background-image: linear-gradient(to bottom, rgba(70,86,125,1) 0%, rgba(82,100,141,1) 15%, rgba(117,139,184,1) 56%, rgba(124,147,194,1) 65%); {% else %} background-color: #000; {% endif %}">
+<body class="background-cover {{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}" style="{% if page.url == "/" %}background-color: rgba(70,86,125,1); background-image: linear-gradient(to bottom, rgba(70,86,125,1) 0%, rgba(82,100,141,1) 15%, rgba(117,139,184,1) 56%, rgba(124,147,194,1) 65%); {% else %} background-color: #FFF; {% endif %}">
