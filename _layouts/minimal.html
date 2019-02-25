@@ -1,15 +1,15 @@
 {% include header.html %}
 <div class="background-default background-cover">
-<main>
+<main class="h-100">
+    {{ content }}
+</main>
+<footer class="site-footer-minimal p-bottom-left">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 text-center mt-3">
-                <a href="/"><img src="/images/logo_200_outline-white.png" width="200" height="height" alt="{{ site.data.global.title }}" /></a>
-            </div>
-            <div class="col-md-12 text-center mt-3">
-                {{ content }}
+            <div class="col-md-6">
+                <a href="/">{{ site.data.global.title }}</a>
+                <p class="text-muted">All Rights Reserved</p>
             </div>
         </div>
     </div>
-</main>
-{% include footer.html %}
+</footer>

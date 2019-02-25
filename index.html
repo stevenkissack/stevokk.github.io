@@ -1,17 +1,19 @@
 ---
 layout: minimal
 ---
-
-<div class="text-center text-white">
-  <p>I am a full stack developer exploring the world{% if site.data.global.personal_current_location %}, currently residing in {{ site.data.global.personal_current_location }} but happy to move for the right reasons{% endif %}.</p>
-  {% if site.data.global.available_for_work %}
-  <p>If you'd like contact me about an opportunity, see my contact details below.</p>
-  {% endif %}
-  <br>
-  <p>
-    <a href="{{site.data.global.personal_github}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">Github</button></a>
-    <a href="{{site.data.global.personal_linkedin}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">LinkedIn</button></a>
-    <a href="mailto:{{site.data.global.personal_email}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">E-Mail</button></a>
-  </p>
-  <a href="/resume"><button type="button" class="btn btn-lg btn-primary">Résumé</button></a>
+<div class="flex-vert-center-child px-3">
+  <a href="http://www.osar.im/"><button type="button" class="btn btn-lg btn-primary p-top-right border-0">My Consultancy Firm >></button></a>
+  <div class="text-white h4">
+    <h3>I am a full stack developer exploring the world{% if site.data.global.personal_current_location %}, currently residing in {{ site.data.global.personal_current_location }} but happy to move for the right reasons{% endif %}.</h3>
+    {% if site.data.global.available_for_work %}
+    <h3>If you'd like contact me about an opportunity, see my contact details below.</h3>
+    {% endif %}
+    <br>
+    <p>
+      <a href="{{site.data.global.personal_github}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">Github</button></a>
+      <a href="{{site.data.global.personal_linkedin}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">LinkedIn</button></a>
+      <a href="mailto:{{site.data.global.personal_email}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">E-Mail</button></a>
+      <a href="/resume"><button type="button" class="btn btn-lg btn-primary">Résumé</button></a>
+    </p>
+  </div>
 </div>

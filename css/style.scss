@@ -5,14 +5,13 @@
 //$site-primary: rgb(255, 69, 69);
 //$site-secondary: #FF7B7B;
 
-%oswald { font-family: 'Oswald', sans-serif; }
-%roboto { font-family: 'Roboto Condensed', sans-serif; }
+%poppins { font-family: 'Poppins', sans-serif; }
 
 html {
     height:100%;
 }
 body {
-    @extend %roboto;
+    @extend %poppins;
     height:100%;
     color: #000;
     font-size: 19px;
@@ -55,7 +54,7 @@ a {
     }
 }
 
-h1, h2, h3, h4, h5, h6 { @extend %oswald; }
+h1, h2, h3, h4, h5, h6 { @extend %poppins; }
 
 // Adjust bootstrap buttons to fit design
 .btn {
@@ -194,7 +193,7 @@ nav>li>a:hover {
     .btn {
         text-transform: uppercase;
         font-weight: 400;
-        @extend %oswald;
+        @extend %poppins;
     }
 
     .featurette {
@@ -305,4 +304,36 @@ nav>li>a:hover {
 
 @media only screen and (max-width : 480px) {
 
+}
+
+.flex-vert-center-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.px-3 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.p-bottom-left {
+    position: absolute;
+    bottom: 0;
+    left:0;
+}
+
+.p-top-right {
+    position: absolute;
+    top:0;
+    right:0;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.border-0 {
+    border: 0;
 }
