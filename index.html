@@ -2,7 +2,7 @@
 layout: minimal
 ---
 <div class="flex-vert-center-child px-3">
-  <a href="http://www.osar.im/"><button type="button" class="btn btn-lg btn-primary p-top-right border-0">My Consultancy Firm >></button></a>
+  <a href="http://www.osar.im/"><button type="button" class="btn btn-lg btn-primary fix-top-right border-0">View Consultancy Brand >></button></a>
   <div class="text-white h4">
     <h3>I am a full stack developer exploring the world{% if site.data.global.personal_current_location %}, currently residing in {{ site.data.global.personal_current_location }} but happy to move for the right reasons{% endif %}.</h3>
     {% if site.data.global.available_for_work %}
@@ -10,10 +10,10 @@ layout: minimal
     {% endif %}
     <br>
     <p>
-      <a href="{{site.data.global.personal_github}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">Github</button></a>
-      <a href="{{site.data.global.personal_linkedin}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">LinkedIn</button></a>
-      <a href="mailto:{{site.data.global.personal_email}}" target="_blank"><button type="button" class="btn btn-lg btn-primary">E-Mail</button></a>
-      <a href="/resume"><button type="button" class="btn btn-lg btn-primary">Résumé</button></a>
+      <a href="{{site.data.global.personal_github}}" target="_blank"><button type="button" class="btn btn-lg btn-primary my-1">Github</button></a>
+      <a href="{{site.data.global.personal_linkedin}}" target="_blank"><button type="button" class="btn btn-lg btn-primary my-1">LinkedIn</button></a>
+      <a href="mailto:{{site.data.global.personal_email}}" target="_blank"><button type="button" class="btn btn-lg btn-primary my-1">E-Mail</button></a>
+      <a href="/resume"><button type="button" class="btn btn-lg btn-primary my-1">Résumé</button></a>
     </p>
   </div>
 </div>

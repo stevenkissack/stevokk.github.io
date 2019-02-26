@@ -15,7 +15,6 @@ body {
     height:100%;
     color: #000;
     font-size: 19px;
-    //-webkit-font-smoothing: antialiased;
 }
 
 .background-default {
@@ -281,6 +280,11 @@ nav>li>a:hover {
     margin-right: 2em;
 }
 
+.my-1 {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
 .text-white {
     color: white !important;
 }
@@ -298,12 +302,18 @@ nav>li>a:hover {
     }
 }
 
-@media only screen and (max-width : 991px) {
+// @media only screen and (max-width : 991px) {
 
-}
+// }
 
-@media only screen and (max-width : 480px) {
+// @media only screen and (max-width : 480px) {
 
+// }
+
+@media only screen and (max-height : 400px) {
+    h3, .h3 {
+        font-size: 19px;
+    }
 }
 
 .flex-vert-center-child {
@@ -318,13 +328,20 @@ nav>li>a:hover {
     padding-right: 5rem;
 }
 
-.p-bottom-left {
-    position: absolute;
-    bottom: 0;
-    left:0;
+.pr-1 {
+    padding-right: 1em;
 }
 
-.p-top-right {
+.w-100 {
+    width: 100%;
+}
+
+.fix-bottom {
+    position: absolute;
+    bottom: 0;
+}
+
+.fix-top-right {
     position: absolute;
     top:0;
     right:0;
