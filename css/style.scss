@@ -354,3 +354,7 @@ nav>li>a:hover {
 .border-0 {
     border: 0;
 }
+
+.navbar-nav {
+    margin: 7.5px 0px; // Stop -15px y axis on mobile
+}
