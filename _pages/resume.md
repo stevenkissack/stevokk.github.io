@@ -4,7 +4,7 @@ title: Résumé
 permalink: /resume/
 ---
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-xs-8">
         <h1>{{site.data.resume.basics.name}}</h1>
         <h3>{{site.data.resume.basics.label}}</h3>
