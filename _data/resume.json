@@ -4,9 +4,9 @@
       "label": "Software Developer",
       "picture": "/images/profile-android.png",
       "email": "Steven.Kissack@gmail.com",
-      "phone": "+44 7624 343537",
-      "website": "https://stevenkissack.com",
-      "summary": "Currently travelling and working remotely on projects that interest me, I am looking for start-up opportunities in the technology space. Reach out if you're in need for a technical member to help with the ideation & grind. I hold a Manx (British National) and Irish Citizenship.",
+      "phone": null,
+      "website": "https://www.stevenkissack.com",
+      "summary": "Currently travelling and working remotely on interesting projects. Reach out if you're in need for a technical consultant for your company. I hold a Manx (British National) and Irish Citizenship.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -37,7 +37,7 @@
         "position": "Co-Founder",
         "website": "http://www.osar.im",
         "startDate": "2019-02-20",
-        "summary": "Launched our own techincal consultancy firm focussed on customer satisfaction and honesty over profits. Working on delivering both private and open-source projects, the hope is to create a trustworthy digital development partner undivided by profits.",
+        "summary": "Launched a techincal consultancy firm focussed on customer satisfaction and honesty over profits. Working on delivering both private and open-source projects, the hope is to create a trustworthy digital development partner undivided by profits.",
         "highlights": ["Architecture", "Consultancy", "Development", "Planning", "DevOps", "Cloud Services", "Analysis"]
       },
       {

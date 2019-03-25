@@ -10,7 +10,7 @@ permalink: /resume/
         <h3>{{site.data.resume.basics.label}}</h3>
         <ul class="list-unstyled mt-1">
             <li><a href="mail:{{site.data.resume.basics.email}}" class="hide-print-url"><i class="fas fa-envelope mr-1"></i> {{site.data.resume.basics.email}}</a></li>
-            <li><a href="tel:{{site.data.resume.basics.phone}}" class="hide-print-url"><i class="fas fa-phone mr-1"></i> {{site.data.resume.basics.phone}}</a></li>
+            {% if site.data.resume.basics.phone %}<li><a href="tel:{{site.data.resume.basics.phone}}" class="hide-print-url"><i class="fas fa-phone mr-1"></i> {{site.data.resume.basics.phone}}</a></li> {% endif %}
             <li><a href="{{site.data.resume.basics.website}}" class="hide-print-url"><i class="fas fa-globe-americas mr-1"></i> {{site.data.resume.basics.website}}</a></li>
         </ul>
     </div>
