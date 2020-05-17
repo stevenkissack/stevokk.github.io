@@ -23,6 +23,11 @@ body {
     flex-wrap: wrap;
 }
 
+.profile-photo {
+    border-radius: 50%;
+    max-height: 180px;
+}
+
 .background-default {
     background-image: url(/images/bg_melb_mavic_blur_md.jpg);
 }
