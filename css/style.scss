@@ -17,6 +17,12 @@ body {
     font-size: 19px;
 }
 
+.row.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+}
+
 .background-default {
     background-image: url(/images/bg_melb_mavic_blur_md.jpg);
 }
