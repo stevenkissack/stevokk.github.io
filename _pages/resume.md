@@ -14,8 +14,8 @@ permalink: /resume/
             <li><a href="{{site.data.resume.basics.website}}" class="hide-print-url"><i class="fas fa-globe-americas mr-1"></i> {{site.data.resume.basics.website}}</a></li>
         </ul>
     </div>
-    <div class="col-xs-4">
-        <img src="{{site.data.resume.basics.picture}}" alt="profile picture" class="pull-right img-responsive profile-photo"/>
+    <div class="col-xs-4 profile-photo-wrapper">
+        <img src="{{site.data.resume.basics.picture}}" alt="profile picture" class="profile-photo"/>
     </div>
 </div>
 <hr>
