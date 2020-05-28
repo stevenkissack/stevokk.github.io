@@ -1,7 +1,6 @@
 ---
 layout: full
 title: About
-featured_image: /images/bg_spacex-blur.jpg
 permalink: /about/
 ---
 

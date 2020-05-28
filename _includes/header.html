@@ -23,11 +23,44 @@
     <link rel="stylesheet" href="/css/style.css">
 
     <!-- Speed up BG image loading -->
-    <link rel="preload" href="/images/bg_melb_mavic_blur_md.jpg" as="image">
+    <link rel="preload" href="/images/night-road-bg.jpg" as="image">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139160973-1"></script>
     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-139160973-1');</script>
 
+    <script>function addStarMap() {
+        var container = document.getElementById('star-container');
+    
+        if(!container) return;
+    
+        var w = container.scrollWidth;
+        var h = container.scrollHeight;
+    
+        for (var i = 0; i < 70; i++) {
+    
+            var starEl = document.createElement('div');
+            
+            starEl.className = 'star ' + (Math.random() < 0.7 ? '' : 'lg');
+
+            var styleStr = 'animation: twinkle '
+                 + ((Math.random()*5) + 5)
+                 + 's linear '
+                 + ((Math.random()*5) + 5)
+                 + 's infinite; top: '
+                 + Math.random()*h 
+                 + 'px; left: '
+                 + Math.random()*w
+                 + 'px;';
+            
+            // console.log(styleStr)
+
+            starEl.style = styleStr;
+
+            container.appendChild(starEl);
+        }
+    
+    };</script>
+
 </head>
-<body class="background-cover {{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}" style="{% if page.url == "/" %}background-color: rgba(70,86,125,1); background-image: linear-gradient(to bottom, rgba(70,86,125,1) 0%, rgba(82,100,141,1) 15%, rgba(117,139,184,1) 56%, rgba(124,147,194,1) 65%); {% else %} background-color: #FFF; {% endif %}">
+<body onload="addStarMap()" class="background-cover {{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}" style="{% if page.url == "/" %}background-color: rgba(70,86,125,1); background-image: linear-gradient(to bottom, rgb(19, 18, 21) 0%, rgb(46, 58, 82) 50%, rgb(98, 102, 111) 60%, rgb(13, 15, 19) 100%); {% else %} background-color: #FFF; {% endif %}">
