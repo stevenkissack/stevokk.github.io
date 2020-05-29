@@ -29,11 +29,16 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139160973-1"></script>
     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-139160973-1');</script>
 
-    <script>function addStarMap() {
+    <script>
+    function addStarMap() {
         var container = document.getElementById('star-container');
     
         if(!container) return;
     
+        while (container.firstChild) {
+            container.removeChild(container.lastChild);
+        }
+
         var w = container.scrollWidth;
         var h = container.scrollHeight;
     
@@ -60,7 +65,15 @@
             container.appendChild(starEl);
         }
     
-    };</script>
+    };
+    
+    var timeout = false, delay = 250;
+
+    window.addEventListener('resize', function() {
+        clearTimeout(timeout);
+        timeout = setTimeout(addStarMap, delay);
+    });
+    </script>
 
 </head>
 <body onload="addStarMap()" class="background-cover {{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}" style="{% if page.url == "/" %}background-color: rgba(70,86,125,1); background-image: linear-gradient(to bottom, rgb(19, 18, 21) 0%, rgb(46, 58, 82) 50%, rgb(98, 102, 111) 60%, rgb(13, 15, 19) 100%); {% else %} background-color: #FFF; {% endif %}">
