@@ -119,7 +119,8 @@
           "Markdown",
           "CSS",
           "LESS & SASS",
-          "Javascript / ECMAScript",
+          "Javascript",
+          "Typescript",
           "React & Redux",
           "React Native & Expo",
           "Next.js (Serverside Render)",
@@ -146,9 +147,11 @@
       {
         "name": "Currently Learning",
         "keywords": [
+          "Flutter",
+          "Python",
           "Golang",
           "Blockchain & DAPP Development",
-          "Spanish"
+          "Spanish & Portuguese (pt-BR)"
         ]
       },
       {
@@ -157,7 +160,7 @@
           "Jira & Agile + Installation & Advanced Configuration",
           "Trello",
           "Project Tracking & Timelines",
-          "Charting - Gannt, Burndown, etc",
+          "Charting - Gantt, Burndown, etc",
           "Specification Writing",
           "Time Management",
           "Team Management",
@@ -191,7 +194,7 @@
         "keywords": []
       },
       {
-        "name": "Skydiving",
+        "name": "Kitesurfing",
         "keywords": []
       },
       {
