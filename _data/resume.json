@@ -118,7 +118,8 @@
           "Markdown",
           "CSS",
           "LESS & SASS",
-          "Javascript / ECMAScript",
+          "Javascript",
+          "Typescript",
           "React & Redux",
           "Next.js",
           "Webpack & Gulp",
@@ -147,6 +148,8 @@
         "name": "Currently Learning",
         "keywords": [
           "Embedded Systems (ESP)",
+          "Blockchain & DAPP Development",
+          "Golang",
           "Blockchain & DAPP Development"
         ]
       },
@@ -156,7 +159,7 @@
           "Jira Agile + Installation & Advanced Configuration",
           "Trello",
           "Project Tracking & Timelines",
-          "Charting - Gannt, Burndown, etc",
+          "Charting - Gantt, Burndown, etc",
           "Specification Writing",
           "Time Management",
           "Team Management",
@@ -177,7 +180,7 @@
         "keywords": []
       },
       {
-        "name": "Skydiving",
+        "name": "Kitesurfing",
         "keywords": []
       },
       {
