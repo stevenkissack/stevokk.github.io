@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Steven Kissack",
-      "label": "Software Developer",
+      "label": "Software Developer & Consultant",
       "picture": "/images/headshot_blur.jpeg",
       "email": "Steven.Kissack@gmail.com",
       "phone": null,
       "website": "https://www.stevenkissack.com",
-      "summary": "Currently working remotely on interesting projects, focussing on technical consultancy and leadership. I hold a Manx (British National) and Irish Citizenship.",
+      "summary": "Passion for interesting problems and solutions, focussing mainly on technical consultancy and leadership. I hold a Manx (British National) and Irish Citizenship.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -37,16 +37,16 @@
         "position": "Co-Founder",
         "website": "http://www.osar.im",
         "startDate": "2019-02-20",
-        "summary": "Launched a techincal consultancy firm focussed on customer satisfaction and honesty over profits. Currently with active software projects building Hybrid Apps, Web Apps, Scalable APIs, Cloud Services, DevOps Solutions & more.",
-        "highlights": ["Architecture", "Consultancy", "Development", "Planning", "DevOps", "Cloud Services", "Analysis"]
+        "highlights": ["Architecture", "Consultancy", "Advisory", "Development", "Planning", "DevOps", "Cloud Services", "Analysis", "IoT", "Python"],
+        "summary": "Launch Osar Consultancy with a mission to prioritize customer satisfaction over profits. Notable projects such as a fully custom IoT smart-farm system. Also deeply involved with strategic tech advisory to an emerging aviation startup."
       },
       {
         "company": "GreySnowPoker",
-        "position": "Software Developer (Contractor)",
+        "position": "Software Architect (Contractor)",
         "website": "https://www.greysnowpoker.com",
         "startDate": "2018-01-22",
         "endDate": "2018-08-27",
-        "summary": "Mainly working on building the web infrastructure and codebase from scratch using bleeding edge tools such as Next.JS (Server Side Rendering), GraphQL and Docker Swarm. Daily tasks involved Trello management for other developers, feature development and planning technical changes to support the business.",
+        "summary": "Mainly working on building the web infrastructure and codebase from scratch using modern tools such as Next.JS (Server Side Rendering), GraphQL and Docker Swarm. Daily tasks involved team task management, development, and planning the technical roadmap to support the business in a heavily regulated industry.",
         "highlights": ["Architecture", "React", "Next.js", "Node.js", "GraphQL", "Docker", "Linux", "Trello", "BitBucket"]
       },
       {
@@ -55,8 +55,8 @@
         "website": "https://www.interactive.com.au/",
         "startDate": "2017-05-15",
         "endDate": "2017-11-19",
-        "summary": "Whilst travelling around Australia I decided to stay out my remaining visa in Melbourne. I joined Interactive and worked in the software team to develop client solutions for a variety of problems including but not limited to: Kiosks, Web Apps & DevOps.",
-        "highlights": ["React", "Redux", "React Native", "Webpack", "Electron", "OAuth", "XAML", "Bamboo", "Zeplin"]
+        "summary": "While on a sabbatical in Australia, I decided to stay out my remaining time in Melbourne and join Interactive to develop client solutions for a variety of problems including but not limited to: Kiosks, Web Apps & DevOps.",
+        "highlights": ["React", "Redux", "React Native", "Webpack", "Electron", "OAuth", "XAML", "UWP", "Bamboo"]
       },
       {
         "company": "PokerStars",
@@ -115,16 +115,15 @@
         "level": "Advanced",
         "keywords": [
           "HTML5",
-          "XAML",
           "Markdown",
           "CSS",
           "LESS & SASS",
           "Javascript / ECMAScript",
           "React & Redux",
-          "React Native & Expo",
-          "Next.js (Serverside Render)",
+          "Next.js",
           "Webpack & Gulp",
-          "Jekyll"
+          "Jekyll",
+          "Hugo"
         ]
       },
       {
@@ -132,6 +131,7 @@
         "level": "Advanced",
         "keywords": [
           "Node.js & Express",
+          "Python & FastAPI",
           "GraphQL",
           "SQL & NoSQL",
           "Redis",
@@ -146,15 +146,14 @@
       {
         "name": "Currently Learning",
         "keywords": [
-          "Golang",
-          "Blockchain & DAPP Development",
-          "Spanish"
+          "Embedded Systems (ESP)",
+          "Blockchain & DAPP Development"
         ]
       },
       {
         "name": "Leader / Management",
         "keywords": [
-          "Jira & Agile + Installation & Advanced Configuration",
+          "Jira Agile + Installation & Advanced Configuration",
           "Trello",
           "Project Tracking & Timelines",
           "Charting - Gannt, Burndown, etc",
@@ -163,19 +162,6 @@
           "Team Management",
           "Scrum Methodology",
           "Developer Mentoring"
-        ]
-      },
-      {
-        "name": "Retired Skills",
-        "keywords": [
-          "Angular 1",
-          "C#",
-          "XSLT",
-          "UWP",
-          "Perl",
-          "Android Java",
-          "Wordpress",
-          "jQuery"
         ]
       }
     ],
