@@ -4,7 +4,7 @@ title: Résumé
 permalink: /resume/
 ---
 
-<div class="row mt-3 equal">
+<div class="row mt-1 equal">
     <div class="col-xs-8">
         <h1>{{site.data.resume.basics.name}}</h1>
         <h3>{{site.data.resume.basics.label}}</h3>
@@ -111,6 +111,6 @@ permalink: /resume/
         <a href="#" onclick="window.print();" class="btn btn-lg btn-success">Print Page</a>
     </div>
     <div class="col-lg-12 mt-1">
-        <p class="text-muted">* Auto print layouts are not the neatest, if you're for some reason needing a neatly printed version, please reach out so I can provide one.</p>
+        <p class="text-muted">* If you prefer a different format, please reach out to me, I am happy to assist!</p>
     </div>
 </div>
