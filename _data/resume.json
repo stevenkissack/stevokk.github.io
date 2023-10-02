@@ -6,7 +6,7 @@
       "email": "Steven.Kissack@gmail.com",
       "phone": null,
       "website": "https://www.stevenkissack.com",
-      "summary": "Passion for interesting problems and solutions, focussing mainly on technical consultancy and leadership. I hold a Manx (British National) and Irish Citizenship.",
+      "summary": "Passion for interesting problems and solutions, focussing mainly on technical consultancy and leadership. I hold a Manx (British National) and Irish Citizenship, and have many years experience with remote teams.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -38,7 +38,7 @@
         "website": "http://www.osar.im",
         "startDate": "2019-02-20",
         "highlights": ["Architecture", "Consultancy", "Advisory", "Development", "Planning", "DevOps", "Cloud Services", "Analysis", "IoT", "Python"],
-        "summary": "Launch Osar Consultancy with a mission to prioritize customer satisfaction over profits. Notable projects such as a fully custom IoT smart-farm system. Also deeply involved with strategic tech advisory to an emerging aviation startup."
+        "summary": "Launch Osar Consultancy with a mission to prioritize customer satisfaction over profits. Notable projects such as a custom IoT smart-farm system. Also deeply involved with an emerging aviation start-up providing strategic & technical advisory."
       },
       {
         "company": "GreySnowPoker",
@@ -46,7 +46,7 @@
         "website": "https://www.greysnowpoker.com",
         "startDate": "2018-01-22",
         "endDate": "2018-08-27",
-        "summary": "Mainly working on building the web infrastructure and codebase from scratch using modern tools such as Next.JS (Server Side Rendering), GraphQL and Docker Swarm. Daily tasks involved team task management, development, and planning the technical roadmap to support the business in a heavily regulated industry.",
+        "summary": "Created the company's web infrastructure and software architecture from scratch using Next.JS, GraphQL and Docker Swarm. Daily tasks involved team task management, development, and planning the technical roadmap in a heavily regulated industry.",
         "highlights": ["Architecture", "React", "Next.js", "Node.js", "GraphQL", "Docker", "Linux", "Trello", "BitBucket"]
       },
       {
@@ -55,7 +55,7 @@
         "website": "https://www.interactive.com.au/",
         "startDate": "2017-05-15",
         "endDate": "2017-11-19",
-        "summary": "While on a sabbatical in Australia, I decided to stay out my remaining time in Melbourne and join Interactive to develop client solutions for a variety of problems including but not limited to: Kiosks, Web Apps & DevOps.",
+        "summary": "While on a sabbatical in Australia, I joined Interactive to develop client solutions for a variety of problems including but not limited to: Kiosks, Web Apps & DevOps.",
         "highlights": ["React", "Redux", "React Native", "Webpack", "Electron", "OAuth", "XAML", "UWP", "Bamboo"]
       },
       {
@@ -64,7 +64,7 @@
         "website": "https://www.pokerstars.com/",
         "startDate": "2016-09-01",
         "endDate": "2016-11-09",
-        "summary": "After being promoted to Senior Web Software Engineer, I was part of and managed many projects involving internal and external developers. My main duties were to lead the front-end Angular 1 development, architect and build Node.JS services, and take part in technical discussions.",
+        "summary": "After being promoted to Senior Web Software Engineer, I was part of and managed many projects involving internal and external developers. My main duties were to lead the front-end Angular development, architect and build Node.JS services, and take part in technical discussions.",
         "highlights": ["Angular", "Gulp", "Node.js", "Express", "Agile", "Jira"]
       },
       {
@@ -73,8 +73,8 @@
         "website": "https://www.pokerstars.com/",
         "startDate": "2013-12-16",
         "endDate": "2016-09-01",
-        "summary": "Responsibilities included developing features for a Perl based CMS, supporting WordPress installs, managing CentOS servers and prototyping web applications whilst also helping improve our blog and TV site offering.",
-        "highlights": ["HTML5", "CSS3", "SASS", "LESS", "CentOS", "Wordpress", "Perl"]
+        "summary": "Responsibilities included expanding a Perl CMS, supporting WordPress sites, managing CentOS servers and prototyping web applications whilst also helping improve our blog and TV site performance.",
+        "highlights": ["HTML5", "CSS3", "SASS", "LESS", "Linux", "Wordpress", "Perl"]
       },
       {
         "company": "Iforium",
@@ -82,7 +82,7 @@
         "website": "http://www.iforium.com/",
         "startDate": "2012-09-01",
         "endDate": "2013-12-13",
-        "summary": "Main duties were to develop the front-end for casino sites and to extend the back office system. I worked with C#, MSSQL, XSLT, JavaScript, and HTML, working on anything from front-end payment provider integrations to seamless game launching. Other side projects include Linux server installs and prototyping mobile applications for clients.",
+        "summary": "Main duties were to develop gambling sites and extend the back office system. I worked with C#, MSSQL, XSLT, JavaScript, and HTML, working on anything from payment provider integrations to game launching. Other projects include Linux server installs and prototyping mobile applications for clients.",
         "highlights": ["C#", "XSLT", "JavaScript", "jQuery", "HTML"]
       }
     ],
@@ -149,6 +149,7 @@
         "keywords": [
           "Embedded Systems (ESP)",
           "Blockchain & DAPP Development",
+          "LLM Applications",
           "Golang",
           "3D Modelling"
         ]
