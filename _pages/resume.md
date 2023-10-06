@@ -15,7 +15,7 @@ permalink: /resume/
         </ul>
     </div>
     <div class="col-xs-4 profile-photo-wrapper">
-        <img src="{{site.data.resume.basics.picture}}" alt="profile picture" class="profile-phot img-responsiveo"/>
+        <img src="{{site.data.resume.basics.picture}}" alt="profile picture" class="profile-photo img-responsive"/>
     </div>
 </div>
 <hr>
